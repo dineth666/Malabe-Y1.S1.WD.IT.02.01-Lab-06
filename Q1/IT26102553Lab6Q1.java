@@ -9,6 +9,6 @@ public class SquareRoot {
 
         System.out.println("Square root = " + Math.sqrt(num));
 
-        sc.close();
+
     }
 }
